@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include "includes.h"
 
 int main(int argc, char *argv[])
 {
 	printf("Hello C-Free!\n");
+	testMethod();
 	return 0;
 }
