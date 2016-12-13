@@ -1,3 +1,3 @@
 # leetCodePractice
-开刷LeetCode..........  
-命名规范：topNums+ProblemName
+
+  命名规范：topNums+ProblemName
